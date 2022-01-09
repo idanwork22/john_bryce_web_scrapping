@@ -1,0 +1,531 @@
+FIRST NAME,LAST NAME,TEAM,NUMBER,POSITION,HEIGHT(METER),WEIGHT(KG),COUNTRY,LAST ATTENDED,AGE(YEARS),BIRTHDATE,DRAFT,EXPERIENCE(YEARS)
+Precious,Achiuwa,Toronto Raptors,5,Forward,2.03,102.0,Nigeria,Memphis,22,1999-09-19,2020 R1 Pick 20,1
+Steven,Adams,Memphis Grizzlies,4,Center,2.11,120.0,New Zealand,Pittsburgh,28,1993-07-20,2013 R1 Pick 12,8
+Bam,Adebayo,Miami Heat,13,Center-Forward,2.06,116.0,USA,Kentucky,24,1997-07-18,2017 R1 Pick 14,4
+Santi,Aldama,Memphis Grizzlies,7,Forward-Center,2.11,98.0,Spain,Loyola-Maryland,20,2001-01-10,2021 R1 Pick 30,0
+LaMarcus,Aldridge,Brooklyn Nets,21,Center-Forward,2.11,113.0,USA,Texas-Austin,36,1985-07-19,2006 R1 Pick 2,15
+Nickeil,Alexander-Walker,New Orleans Pelicans,6,Guard,1.96,93.0,Canada,Virginia Tech,23,1998-09-02,2019 R1 Pick 17,2
+Grayson,Allen,Milwaukee Bucks,7,Guard,1.93,90.0,USA,Duke,26,1995-10-08,2018 R1 Pick 21,3
+Jarrett,Allen,Cleveland Cavaliers,31,Center,2.08,110.0,USA,Texas-Austin,23,1998-04-21,2017 R1 Pick 22,4
+Jose,Alvarado,New Orleans Pelicans,15,Guard,1.83,81.0,USA,Georgia Tech,23,1998-04-12,Undrafted,0
+Justin,Anderson,Indiana Pacers,10,Forward-Guard,1.96,105.0,USA,Virginia,28,1993-11-19,2015 R1 Pick 21,5
+Kyle,Anderson,Memphis Grizzlies,1,Forward-Guard,2.06,104.0,USA,UCLA,28,1993-09-20,2014 R1 Pick 30,7
+Giannis,Antetokounmpo,Milwaukee Bucks,34,Forward,2.11,110.0,Greece,Filathlitikos,27,1994-12-06,2013 R1 Pick 15,8
+Thanasis,Antetokounmpo,Milwaukee Bucks,43,Forward,1.98,99.0,Greece,Panathinaikos,29,1992-07-18,2014 R2 Pick 51,3
+Carmelo,Anthony,Los Angeles Lakers,7,Forward,2.01,108.0,USA,Syracuse,37,1984-05-29,2003 R1 Pick 3,18
+Cole,Anthony,Orlando Magic,50,Guard,1.91,84.0,USA,North Carolina,21,2000-05-15,2020 R1 Pick 15,1
+OG,Anunoby,Toronto Raptors,3,Forward,2.01,105.0,United Kingdom,Indiana,24,1997-07-17,2017 R1 Pick 23,4
+Ryan,Arcidiacono,New York Knicks,51,Guard,1.91,88.0,USA,Villanova,27,1994-03-26,Undrafted,4
+Trevor,Ariza,Los Angeles Lakers,1,Forward,2.03,98.0,USA,UCLA,36,1985-06-30,2004 R2 Pick 43,17
+D.J.,Augustin,Houston Rockets,14,Guard,1.8,83.0,USA,Texas-Austin,34,1987-11-10,2008 R1 Pick 9,13
+Deni,Avdija,Washington Wizards,9,Forward,2.06,95.0,Israel,Maccabi Tel Aviv,21,2001-01-03,2020 R1 Pick 9,1
+Joel,Ayayi,Washington Wizards,17,Guard,1.93,82.0,France,Gonzaga,21,2000-03-05,Undrafted,0
+Deandre,Ayton,Phoenix Suns,22,Center,2.11,113.0,Bahamas,Arizona,23,1998-07-23,2018 R1 Pick 1,3
+Udoka,Azubuike,Utah Jazz,20,Center-Forward,2.13,122.0,Nigeria,Kansas,22,1999-09-17,2020 R1 Pick 27,1
+Marvin,Bagley III,Sacramento Kings,35,Forward,2.11,107.0,USA,Duke,22,1999-03-14,2018 R1 Pick 2,3
+LaMelo,Ball,Charlotte Hornets,2,Guard,2.01,82.0,USA,Illawarra,20,2001-08-22,2020 R1 Pick 3,1
+Lonzo,Ball,Chicago Bulls,2,Guard,1.98,86.0,USA,UCLA,24,1997-10-27,2017 R1 Pick 2,4
+Mo,Bamba,Orlando Magic,5,Center,2.13,105.0,USA,Texas-Austin,23,1998-05-12,2018 R1 Pick 6,3
+Desmond,Bane,Memphis Grizzlies,22,Guard,1.96,98.0,USA,TCU,23,1998-06-25,2020 R1 Pick 30,1
+Dalano,Banton,Toronto Raptors,45,Forward,2.01,93.0,Canada,Nebraska,22,1999-11-07,2021 R2 Pick 46,0
+Harrison,Barnes,Sacramento Kings,40,Forward,2.03,102.0,USA,North Carolina,29,1992-05-30,2012 R1 Pick 7,9
+Scottie,Barnes,Toronto Raptors,4,Forward,2.01,102.0,USA,Florida State,20,2001-08-01,2021 R1 Pick 4,0
+RJ,Barrett,New York Knicks,9,Forward-Guard,1.98,97.0,Canada,Duke,21,2000-06-14,2019 R1 Pick 3,2
+Will,Barton,Denver Nuggets,5,Guard,1.96,82.0,USA,Memphis,31,1991-01-06,2012 R2 Pick 40,9
+Charles,Bassey,Philadelphia 76ers,23,Center-Forward,2.06,104.0,Nigeria,Western Kentucky,21,2000-10-28,2021 R2 Pick 53,0
+Keita,Bates-Diop,San Antonio Spurs,31,Forward,2.03,104.0,USA,Ohio State,25,1996-01-23,2018 R2 Pick 48,3
+Nicolas,Batum,LA Clippers,33,Guard-Forward,2.03,104.0,France,Le Mans,33,1988-12-14,2008 R1 Pick 25,13
+Kent,Bazemore,Los Angeles Lakers,9,Guard-Forward,1.93,88.0,USA,Old Dominion,32,1989-07-01,Undrafted,9
+Darius,Bazley,Oklahoma City Thunder,7,Forward,2.03,94.0,USA,Princeton HS (OH),21,2000-06-12,2019 R1 Pick 23,2
+Bradley,Beal,Washington Wizards,3,Guard,1.93,94.0,USA,Florida,28,1993-06-28,2012 R1 Pick 3,9
+Malik,Beasley,Minnesota Timberwolves,5,Guard,1.93,85.0,USA,Florida State,25,1996-11-26,2016 R1 Pick 19,5
+DeAndre',Bembry,Brooklyn Nets,95,Guard-Forward,1.96,95.0,USA,St. Joseph's (PA),27,1994-07-04,2016 R1 Pick 21,5
+Davis,Bertans,Washington Wizards,42,Forward,2.08,102.0,Latvia,Baskonia,29,1992-11-12,2011 R2 Pick 42,5
+Patrick,Beverley,Minnesota Timberwolves,22,Guard,1.85,82.0,USA,Arkansas,33,1988-07-12,2009 R2 Pick 42,9
+Saddiq,Bey,Detroit Pistons,41,Forward,2.01,98.0,USA,Villanova,22,1999-04-09,2020 R1 Pick 19,1
+Khem,Birch,Toronto Raptors,24,Center,2.06,106.0,Canada,UNLV,29,1992-09-28,Undrafted,4
+Goga,Bitadze,Indiana Pacers,88,Center-Forward,2.13,113.0,Georgia,Mega Basket,22,1999-07-20,2019 R1 Pick 18,2
+Bismack,Biyombo,Phoenix Suns,8,Center,2.03,116.0,DRC,Baloncesto Fuenlabrada,29,1992-08-28,2011 R1 Pick 7,10
+Nemanja,Bjelica,Golden State Warriors,8,Forward,2.06,106.0,Serbia,Fenerbahce,33,1988-05-09,2010 R2 Pick 35,6
+Eric,Bledsoe,LA Clippers,12,Guard,1.85,97.0,USA,Kentucky,32,1989-12-09,2010 R1 Pick 18,11
+Keljin,Blevins,Portland Trail Blazers,21,Guard,1.93,91.0,USA,Montana State,26,1995-11-24,2019 ,1
+Bogdan,Bogdanovic,Atlanta Hawks,13,Guard,1.98,102.0,Serbia,Fenerbahce,29,1992-08-18,2014 R1 Pick 27,4
+Bojan,Bogdanovic,Utah Jazz,44,Forward,2.01,103.0,Croatia,Fenerbahce,32,1989-04-18,2011 R2 Pick 31,7
+Bol,Bol,Denver Nuggets,10,Center-Forward,2.18,100.0,Sudan,Oregon,22,1999-11-16,2019 R2 Pick 44,2
+Leandro,Bolmaro,Minnesota Timberwolves,9,Forward,1.98,91.0,Argentina,FC Barcelona,21,2000-09-11,2020 R1 Pick 23,0
+Isaac,Bonga,Toronto Raptors,17,Guard,2.03,82.0,Germany,Skyliners Frankfurt,22,1999-11-08,2018 R2 Pick 39,3
+Devin,Booker,Phoenix Suns,1,Guard,1.96,93.0,USA,Kentucky,25,1996-10-30,2015 R1 Pick 13,6
+Brandon,Boston Jr.,LA Clippers,4,Guard,1.98,85.0,USA,Kentucky,20,2001-11-28,2021 R2 Pick 51,0
+Chris,Boucher,Toronto Raptors,25,Forward-Center,2.06,91.0,Saint Lucia,Oregon,28,1993-01-11,Undrafted,4
+James,Bouknight,Charlotte Hornets,5,Guard,1.93,86.0,USA,Connecticut,21,2000-09-18,2021 R1 Pick 11,0
+Avery,Bradley,Los Angeles Lakers,20,Guard,1.91,82.0,USA,Texas-Austin,31,1990-11-26,2010 R1 Pick 19,11
+Tony,Bradley,Chicago Bulls,13,Center-Forward,2.08,112.0,USA,North Carolina,24,1998-01-08,2017 R1 Pick 28,4
+Ignas,Brazdeikis,Orlando Magic,17,Forward,1.98,100.0,Canada,Michigan,23,1999-01-08,2019 R2 Pick 47,2
+Mikal,Bridges,Phoenix Suns,25,Forward,1.98,95.0,USA,Villanova,25,1996-08-30,2018 R1 Pick 10,3
+Miles,Bridges,Charlotte Hornets,0,Forward,2.01,102.0,USA,Michigan State,23,1998-03-21,2018 R1 Pick 12,3
+Oshae,Brissett,Indiana Pacers,12,Forward-Guard,2.01,95.0,Canada,Syracuse,23,1998-06-20,Undrafted,2
+Malcolm,Brogdon,Indiana Pacers,7,Guard,1.96,104.0,USA,Virginia,29,1992-12-11,2016 R2 Pick 36,5
+Armoni,Brooks,Houston Rockets,7,Guard,1.91,88.0,USA,Houston,23,1998-06-05,2019 ,1
+Dillon,Brooks,Memphis Grizzlies,24,Guard-Forward,2.01,102.0,Canada,Oregon,25,1996-01-22,2017 R2 Pick 45,4
+Bruce,Brown,Brooklyn Nets,1,Guard-Forward,1.93,92.0,USA,Miami,25,1996-08-15,2018 R2 Pick 42,3
+Jaylen,Brown,Boston Celtics,7,Guard-Forward,1.98,101.0,USA,California,25,1996-10-24,2016 R1 Pick 3,5
+Moses,Brown,Dallas Mavericks,9,Center,2.18,111.0,USA,UCLA,22,1999-10-13,Undrafted,2
+Sterling,Brown,Dallas Mavericks,0,Guard-Forward,1.96,99.0,USA,Southern Methodist,26,1995-02-10,2017 R2 Pick 46,4
+Greg,Brown III,Portland Trail Blazers,4,Forward,2.01,93.0,USA,Texas-Austin,20,2001-09-01,2021 R2 Pick 43,0
+Charlie,Brown Jr.,Philadelphia 76ers,44,Guard,1.98,90.0,USA,St. Joseph's (PA),24,1997-02-02,Undrafted,2
+Troy,Brown Jr.,Chicago Bulls,7,Guard-Forward,1.98,98.0,USA,Oregon,22,1999-07-28,2018 R1 Pick 15,3
+Jalen,Brunson,Dallas Mavericks,13,Guard,1.85,86.0,USA,Villanova,25,1996-08-31,2018 R2 Pick 33,3
+Thomas,Bryant,Washington Wizards,13,Center-Forward,2.08,112.0,USA,Indiana,24,1997-07-31,2017 R2 Pick 42,4
+Reggie,Bullock,Dallas Mavericks,25,Guard-Forward,1.98,93.0,USA,North Carolina,30,1991-03-16,2013 R1 Pick 25,8
+Trey,Burke,Dallas Mavericks,3,Guard,1.83,84.0,USA,Michigan,29,1992-11-12,2013 R1 Pick 9,8
+Alec,Burks,New York Knicks,18,Guard,1.98,97.0,USA,Colorado,30,1991-07-20,2011 R1 Pick 12,10
+Jared,Butler,Utah Jazz,13,Guard,1.91,88.0,USA,Baylor,21,2000-08-25,2021 R2 Pick 40,0
+Jimmy,Butler,Miami Heat,22,Forward,2.01,104.0,USA,Marquette,32,1989-09-14,2011 R1 Pick 30,10
+Devontae,Cacok,San Antonio Spurs,18,Forward,2.01,109.0,USA,North Carolina-Wilmington,25,1996-10-08,Undrafted,2
+Kentavious,Caldwell-Pope,Washington Wizards,1,Guard,1.96,93.0,USA,Georgia,28,1993-02-18,2013 R1 Pick 8,8
+Facundo,Campazzo,Denver Nuggets,7,Guard,1.78,88.0,Argentina,Murcia,30,1991-03-23,Undrafted,1
+Vlatko,Cancar,Denver Nuggets,31,Forward,2.03,107.0,Slovenia,San Pablo Burgos,24,1997-04-10,2017 R2 Pick 49,2
+Clint,Capela,Atlanta Hawks,15,Center,2.08,116.0,Switzerland,Elan Chalon,27,1994-05-18,2014 R1 Pick 25,7
+Vernon,Carey Jr.,Charlotte Hornets,22,Forward-Center,2.06,122.0,USA,Duke,20,2001-02-25,2020 R2 Pick 32,1
+Jevon,Carter,Brooklyn Nets,0,Guard,1.85,91.0,USA,West Virginia,26,1995-09-14,2018 R2 Pick 32,3
+Wendell,Carter Jr.,Orlando Magic,34,Center-Forward,2.08,122.0,USA,Duke,22,1999-04-16,2018 R1 Pick 7,3
+Michael,Carter-Williams,Orlando Magic,7,Guard,1.96,86.0,USA,Syracuse,30,1991-10-10,2013 R1 Pick 11,8
+Alex,Caruso,Chicago Bulls,6,Guard,1.96,84.0,USA,Texas A&M,27,1994-02-28,Undrafted,4
+Willie,Cauley-Stein,Dallas Mavericks,33,Center,2.13,109.0,USA,Kentucky,28,1993-08-18,2015 R1 Pick 6,6
+Mario,Chalmers,Miami Heat,15,Guard,1.88,86.0,USA,Kansas,35,1986-05-19,2008 R2 Pick 34,9
+Justin,Champagnie,Toronto Raptors,11,Guard-Forward,1.98,93.0,USA,Pittsburgh,20,2001-06-29,Undrafted,0
+Chris,Chiozza,Golden State Warriors,2,Guard,1.8,79.0,USA,Florida,26,1995-11-21,Undrafted,3
+Marquese,Chriss,Dallas Mavericks,5,Forward,2.06,109.0,USA,Washington,24,1997-07-02,2016 R1 Pick 8,5
+Josh,Christopher,Houston Rockets,9,Guard,1.91,98.0,USA,Arizona State,20,2001-12-08,2021 R1 Pick 24,0
+Brandon,Clarke,Memphis Grizzlies,15,Forward,2.03,98.0,Canada,Gonzaga,25,1996-09-19,2019 R1 Pick 21,2
+Jordan,Clarkson,Utah Jazz,00,Guard,1.93,88.0,USA,Missouri,29,1992-06-07,2014 R2 Pick 46,7
+Nic,Claxton,Brooklyn Nets,33,Forward-Center,2.11,98.0,USA,Georgia,22,1999-04-17,2019 R2 Pick 31,2
+Amir,Coffey,LA Clippers,7,Guard-Forward,2.01,95.0,USA,Minnesota,24,1997-06-17,Undrafted,2
+John,Collins,Atlanta Hawks,20,Forward-Center,2.06,103.0,USA,Wake Forest,24,1997-09-23,2017 R1 Pick 19,4
+Zach,Collins,San Antonio Spurs,23,Forward-Center,2.11,113.0,USA,Gonzaga,24,1997-11-19,2017 R1 Pick 10,3
+Mike,Conley,Utah Jazz,11,Guard,1.85,79.0,USA,Ohio State,34,1987-10-11,2007 R1 Pick 4,14
+Pat,Connaughton,Milwaukee Bucks,24,Guard,1.96,95.0,USA,Notre Dame,29,1993-01-06,2015 R2 Pick 41,6
+Tyler,Cook,Chicago Bulls,25,Forward,2.03,116.0,USA,Iowa,24,1997-09-23,Undrafted,2
+Sharife,Cooper,Atlanta Hawks,2,Guard,1.85,80.0,USA,Auburn,20,2001-06-11,2021 R2 Pick 48,0
+Petr,Cornelie,Denver Nuggets,21,Forward,2.11,100.0,France,France,26,1995-07-26,2016 R2 Pick 53,0
+Robert,Covington,Portland Trail Blazers,33,Forward,2.01,95.0,USA,Tennessee State,31,1990-12-14,Undrafted,8
+Torrey,Craig,Indiana Pacers,13,Forward,2.01,100.0,USA,South Carolina Upstate,31,1990-12-19,Undrafted,4
+Jae,Crowder,Phoenix Suns,99,Forward,1.98,107.0,USA,Marquette,31,1990-07-06,2012 R2 Pick 34,9
+Jarrett,Culver,Memphis Grizzlies,23,Guard-Forward,1.98,88.0,USA,Texas Tech,22,1999-02-20,2019 R1 Pick 6,2
+Cade,Cunningham,Detroit Pistons,2,Guard,1.98,100.0,USA,Oklahoma State,20,2001-09-25,2021 R1 Pick 1,0
+Seth,Curry,Philadelphia 76ers,31,Guard,1.88,84.0,USA,Duke,31,1990-08-23,Undrafted,7
+Stephen,Curry,Golden State Warriors,30,Guard,1.88,84.0,USA,Davidson,33,1988-03-14,2009 R1 Pick 7,12
+Anthony,Davis,Los Angeles Lakers,3,Forward-Center,2.08,115.0,USA,Kentucky,28,1993-03-11,2012 R1 Pick 1,9
+Ed,Davis,Cleveland Cavaliers,21,Center-Forward,2.06,99.0,USA,North Carolina,32,1989-06-05,2010 R1 Pick 13,11
+Terence,Davis,Sacramento Kings,3,Guard,1.93,91.0,USA,Mississippi,24,1997-05-16,Undrafted,2
+DeMar,DeRozan,Chicago Bulls,11,Guard-Forward,1.98,100.0,USA,Southern California,32,1989-08-07,2009 R1 Pick 9,12
+Dewayne,Dedmon,Miami Heat,21,Center,2.13,111.0,USA,Southern California,32,1989-08-12,Undrafted,8
+Donte,DiVincenzo,Milwaukee Bucks,0,Guard,1.93,92.0,USA,Villanova,24,1997-01-31,2018 R1 Pick 17,3
+Hamidou,Diallo,Detroit Pistons,6,Guard,1.96,92.0,USA,Kentucky,23,1998-07-31,2018 R2 Pick 45,3
+Gorgui,Dieng,Atlanta Hawks,10,Center,2.08,112.0,Senegal,Louisville,31,1990-01-18,2013 R1 Pick 21,8
+Spencer,Dinwiddie,Washington Wizards,26,Guard,1.98,98.0,USA,Colorado,28,1993-04-06,2014 R2 Pick 38,7
+Luka,Doncic,Dallas Mavericks,77,Forward-Guard,2.01,104.0,Slovenia,Real Madrid,22,1999-02-28,2018 R1 Pick 3,3
+Luguentz,Dort,Oklahoma City Thunder,5,Guard,1.91,98.0,Canada,Arizona State,22,1999-04-19,Undrafted,2
+Ayo,Dosunmu,Chicago Bulls,12,Guard,1.93,91.0,USA,Illinois,21,2000-01-17,2021 R2 Pick 38,0
+Damyean,Dotson,New York Knicks,21,Guard,1.96,95.0,USA,Houston,27,1994-05-06,2017 R2 Pick 44,4
+Devon,Dotson,Chicago Bulls,3,Guard,1.85,84.0,USA,Kansas,22,1999-08-02,Undrafted,1
+Jeff,Dowtin,Milwaukee Bucks,21,Guard,1.91,80.0,USA,Rhode Island,24,1997-05-10,Undrafted,0
+P.J.,Dozier,Denver Nuggets,35,Guard-Forward,1.98,93.0,USA,South Carolina,25,1996-10-25,Undrafted,4
+Goran,Dragic,Toronto Raptors,1,Guard,1.91,86.0,Slovenia,Union Olimpija,35,1986-05-06,2008 R2 Pick 45,13
+Andre,Drummond,Philadelphia 76ers,1,Center,2.08,127.0,USA,Connecticut,28,1993-08-10,2012 R1 Pick 9,9
+Chris,Duarte,Indiana Pacers,3,Guard,1.96,86.0,Dominican Republic,Oregon,24,1997-06-13,2021 R1 Pick 13,0
+David,Duke Jr.,Brooklyn Nets,6,Guard,1.93,93.0,USA,Providence,22,1999-10-13,Undrafted,0
+Kevin,Durant,Brooklyn Nets,7,Forward,2.08,109.0,USA,Texas-Austin,33,1988-09-29,2007 R1 Pick 2,13
+Anthony,Edwards,Minnesota Timberwolves,1,Guard,1.93,102.0,USA,Georgia,20,2001-08-05,2020 R1 Pick 1,1
+Kessler,Edwards,Brooklyn Nets,14,Forward,2.01,92.0,USA,Pepperdine,21,2000-08-09,2021 R2 Pick 44,0
+CJ,Elleby,Portland Trail Blazers,16,Forward-Guard,1.98,91.0,USA,Washington State,21,2000-06-16,2020 R2 Pick 46,1
+Wayne,Ellington,Los Angeles Lakers,2,Guard,1.93,94.0,USA,North Carolina,34,1987-11-29,2009 R1 Pick 28,12
+Joel,Embiid,Philadelphia 76ers,21,Center-Forward,2.13,127.0,Cameroon,Kansas,27,1994-03-16,2014 R1 Pick 3,5
+Drew,Eubanks,San Antonio Spurs,14,Forward-Center,2.06,111.0,USA,Oregon State,24,1997-02-01,Undrafted,3
+Tacko,Fall,Cleveland Cavaliers,99,Center,2.29,141.0,Senegal,Central Florida,26,1995-12-10,Undrafted,2
+Derrick,Favors,Oklahoma City Thunder,15,Forward,2.06,120.0,USA,Georgia Tech,30,1991-07-15,2010 R1 Pick 3,11
+Bruno,Fernando,Boston Celtics,28,Forward-Center,2.06,109.0,Angola,Maryland,23,1998-08-15,2019 R2 Pick 34,2
+Dorian,Finney-Smith,Dallas Mavericks,10,Forward,2.01,100.0,USA,Florida,28,1993-05-04,Undrafted,5
+Malik,Fitts,Utah Jazz,24,Forward,1.96,104.0,USA,St. Mary's College,24,1997-07-04,Undrafted,1
+Malachi,Flynn,Toronto Raptors,22,Guard,1.85,79.0,USA,San Diego State,23,1998-05-09,2020 R1 Pick 29,1
+Bryn,Forbes,San Antonio Spurs,7,Guard,1.88,93.0,USA,Michigan State,28,1993-07-23,Undrafted,5
+Trent,Forrest,Utah Jazz,3,Guard,1.93,95.0,USA,Florida State,23,1998-06-12,Undrafted,1
+Evan,Fournier,New York Knicks,13,Guard-Forward,1.98,93.0,France,Poitiers Basket 86,29,1992-10-29,2012 R1 Pick 20,9
+De'Aaron,Fox,Sacramento Kings,5,Guard,1.91,84.0,USA,Kentucky,24,1997-12-20,2017 R1 Pick 5,4
+Tim,Frazier,Orlando Magic,10,Guard,1.83,77.0,USA,Penn State,31,1990-11-01,Undrafted,7
+Enes,Freedom,Boston Celtics,13,Center,2.08,113.0,Turkey,Fenerbahce,29,1992-05-20,2011 R1 Pick 3,10
+Markelle,Fultz,Orlando Magic,20,Guard,1.93,95.0,USA,Washington,23,1998-05-29,2017 R1 Pick 1,4
+Wenyen,Gabriel,LA Clippers,32,Forward,2.06,93.0,South Sudan,Kentucky,24,1997-03-26,Undrafted,2
+Daniel,Gafford,Washington Wizards,21,Forward-Center,2.06,106.0,USA,Arkansas,23,1998-10-01,2019 R2 Pick 38,2
+Danilo,Gallinari,Atlanta Hawks,8,Forward,2.08,107.0,Italy,Olimpia Milano,33,1988-08-08,2008 R1 Pick 6,12
+Langston,Galloway,Milwaukee Bucks,7,Guard,1.85,91.0,USA,St. Joseph's (PA),30,1991-12-09,Undrafted,7
+Darius,Garland,Cleveland Cavaliers,10,Guard,1.85,87.0,USA,Vanderbilt,21,2000-01-26,2019 R1 Pick 5,2
+Marcus,Garrett,Miami Heat,0,Guard,1.96,93.0,USA,Kansas,23,1998-11-09,Undrafted,0
+Usman,Garuba,Houston Rockets,16,Forward,2.03,104.0,Spain,Real Madrid,19,2002-03-09,2021 R1 Pick 23,0
+Luka,Garza,Detroit Pistons,55,Center,2.08,110.0,USA,Iowa,23,1998-12-27,2021 R2 Pick 52,0
+Rudy,Gay,Utah Jazz,8,Forward-Guard,2.03,113.0,USA,Connecticut,35,1986-08-17,2006 R1 Pick 8,15
+Paul,George,LA Clippers,13,Forward,2.03,100.0,USA,Fresno State,31,1990-05-02,2010 R1 Pick 10,11
+Taj,Gibson,New York Knicks,67,Forward,2.06,105.0,USA,Southern California,36,1985-06-24,2009 R1 Pick 26,12
+Josh,Giddey,Oklahoma City Thunder,3,Guard,2.03,93.0,Australia,NBA Global Academy,19,2002-10-10,2021 R1 Pick 6,0
+Shai,Gilgeous-Alexander,Oklahoma City Thunder,2,Guard,1.98,82.0,Canada,Kentucky,23,1998-07-12,2018 R1 Pick 11,3
+Anthony,Gill,Washington Wizards,16,Forward,2.01,104.0,USA,Virginia,29,1992-10-17,Undrafted,1
+Rudy,Gobert,Utah Jazz,27,Center,2.16,117.0,France,Cholet,29,1992-06-26,2013 R1 Pick 27,8
+Brandon,Goodwin,Cleveland Cavaliers,0,Guard,1.83,82.0,USA,Florida Gulf Coast,26,1995-10-02,Undrafted,3
+Aaron,Gordon,Denver Nuggets,50,Forward,2.03,107.0,USA,Arizona,26,1995-09-16,2014 R1 Pick 4,7
+Eric,Gordon,Houston Rockets,10,Guard,1.91,98.0,USA,Indiana,33,1988-12-25,2008 R1 Pick 7,13
+Devonte',Graham,New Orleans Pelicans,4,Guard,1.85,88.0,USA,Kansas,26,1995-02-22,2018 R2 Pick 34,3
+Jerami,Grant,Detroit Pistons,9,Forward,2.03,95.0,USA,Syracuse,27,1994-03-12,2014 R2 Pick 39,7
+Danny,Green,Philadelphia 76ers,14,Guard,1.98,98.0,USA,North Carolina,34,1987-06-22,2009 R2 Pick 46,12
+Draymond,Green,Golden State Warriors,23,Forward,1.98,104.0,USA,Michigan State,31,1990-03-04,2012 R2 Pick 35,9
+JaMychal,Green,Denver Nuggets,0,Forward-Center,2.03,103.0,USA,Alabama,31,1990-06-21,Undrafted,7
+Jalen,Green,Houston Rockets,0,Guard,1.93,84.0,USA,NBA G League Ignite,19,2002-02-09,2021 R1 Pick 2,0
+Javonte,Green,Chicago Bulls,24,Guard-Forward,1.96,93.0,USA,Radford,28,1993-07-23,Undrafted,2
+Jeff,Green,Denver Nuggets,32,Forward,2.03,107.0,USA,Georgetown,35,1986-08-28,2007 R1 Pick 5,13
+Josh,Green,Dallas Mavericks,8,Guard,1.96,91.0,Australia,Arizona,21,2000-11-16,2020 R1 Pick 18,1
+Blake,Griffin,Brooklyn Nets,2,Forward,2.06,113.0,USA,Oklahoma,32,1989-03-16,2009 R1 Pick 1,11
+Quentin,Grimes,New York Knicks,6,Guard,1.93,95.0,USA,Houston,21,2000-05-08,2021 R1 Pick 25,0
+Rui,Hachimura,Washington Wizards,8,Forward,2.03,104.0,Japan,Gonzaga,23,1998-02-08,2019 R1 Pick 9,2
+Tyrese,Haliburton,Sacramento Kings,0,Guard,1.96,84.0,USA,Iowa State,21,2000-02-29,2020 R1 Pick 12,1
+R.J.,Hampton,Orlando Magic,13,Guard,1.93,79.0,USA,New Zealand Breakers,20,2001-02-07,2020 R1 Pick 24,1
+Tim,Hardaway Jr.,Dallas Mavericks,11,Guard-Forward,1.96,93.0,USA,Michigan,29,1992-03-16,2013 R1 Pick 24,8
+James,Harden,Brooklyn Nets,13,Guard,1.96,100.0,USA,Arizona State,32,1989-08-26,2009 R1 Pick 3,12
+Maurice,Harkless,Sacramento Kings,8,Forward-Guard,2.01,100.0,USA,St. John's,28,1993-05-11,2012 R1 Pick 15,9
+Jared,Harper,New Orleans Pelicans,2,Guard,1.78,79.0,USA,Auburn,24,1997-09-14,Undrafted,2
+Montrezl,Harrell,Washington Wizards,6,Forward-Center,2.01,109.0,USA,Louisville,27,1994-01-26,2015 R2 Pick 32,6
+Gary,Harris,Orlando Magic,14,Guard,1.93,95.0,USA,Michigan State,27,1994-09-14,2014 R1 Pick 19,7
+Joe,Harris,Brooklyn Nets,12,Guard-Forward,1.98,100.0,USA,Virginia,30,1991-09-06,2014 R2 Pick 33,7
+Tobias,Harris,Philadelphia 76ers,12,Forward,2.01,103.0,USA,Tennessee,29,1992-07-15,2011 R1 Pick 19,10
+Josh,Hart,New Orleans Pelicans,3,Guard,1.96,98.0,USA,Villanova,26,1995-03-06,2017 R1 Pick 30,4
+Isaiah,Hartenstein,LA Clippers,55,Center-Forward,2.13,113.0,Germany,Zalgiris,23,1998-05-05,2017 R2 Pick 43,3
+Udonis,Haslem,Miami Heat,40,Forward,2.03,107.0,USA,Florida,41,1980-06-09,Undrafted,18
+Sam,Hauser,Boston Celtics,30,Forward,2.01,98.0,USA,Virginia,24,1997-12-08,Undrafted,0
+Jaxson,Hayes,New Orleans Pelicans,10,Center-Forward,2.11,100.0,USA,Texas-Austin,21,2000-05-23,2019 R1 Pick 8,2
+Killian,Hayes,Detroit Pistons,7,Guard,1.96,88.0,France,Ratiopharm Ulm,20,2001-07-27,2020 R1 Pick 7,1
+Gordon,Hayward,Charlotte Hornets,20,Forward,2.01,102.0,USA,Butler,31,1990-03-23,2010 R1 Pick 9,11
+Aaron,Henry,Philadelphia 76ers,50,Forward,1.96,95.0,USA,Michigan State,22,1999-08-30,Undrafted,0
+Juancho,Hernangomez,Boston Celtics,41,Forward,2.06,97.0,Spain,Estudiantes,26,1995-09-28,2016 R1 Pick 15,5
+Willy,Hernangomez,New Orleans Pelicans,9,Center-Forward,2.11,113.0,Spain,Cajasol Sevilla,27,1994-05-27,2015 R2 Pick 35,5
+Tyler,Herro,Miami Heat,14,Guard,1.96,88.0,USA,Kentucky,21,2000-01-20,2019 R1 Pick 13,2
+Buddy,Hield,Sacramento Kings,24,Guard,1.93,100.0,Bahamas,Oklahoma,29,1992-12-17,2016 R1 Pick 6,5
+George,Hill,Milwaukee Bucks,3,Guard,1.93,85.0,USA,Indiana-Purdue Indianapolis,35,1986-05-04,2008 R1 Pick 26,13
+Solomon,Hill,Atlanta Hawks,18,Forward,1.98,103.0,USA,Arizona,30,1991-03-18,2013 R1 Pick 23,8
+Aaron,Holiday,Washington Wizards,4,Guard,1.83,84.0,USA,UCLA,25,1996-09-30,2018 R1 Pick 23,3
+Jrue,Holiday,Milwaukee Bucks,21,Guard,1.91,93.0,USA,UCLA,31,1990-06-12,2009 R1 Pick 17,12
+Justin,Holiday,Indiana Pacers,8,Forward-Guard,1.98,82.0,USA,Washington,32,1989-04-05,Undrafted,8
+Richaun,Holmes,Sacramento Kings,22,Forward,2.08,107.0,USA,Bowling Green,28,1993-10-15,2015 R2 Pick 37,6
+Rodney,Hood,Milwaukee Bucks,5,Guard-Forward,2.03,94.0,USA,Duke,29,1992-10-20,2014 R1 Pick 23,7
+Al,Horford,Boston Celtics,42,Center-Forward,2.06,109.0,Dominican Republic,Florida,35,1986-06-03,2007 R1 Pick 3,14
+Talen,Horton-Tucker,Los Angeles Lakers,5,Guard,1.93,106.0,USA,Iowa State,21,2000-11-25,2019 R2 Pick 46,2
+Danuel,House Jr.,Utah Jazz,4,Forward-Guard,1.98,100.0,USA,Texas A&M,28,1993-06-07,Undrafted,5
+Dwight,Howard,Los Angeles Lakers,39,Center-Forward,2.08,120.0,USA,SW Atlanta Christian Academy (GA),36,1985-12-08,2004 R1 Pick 1,17
+Markus,Howard,Denver Nuggets,00,Guard,1.78,79.0,USA,Marquette,22,1999-03-03,Undrafted,1
+Kevin,Huerter,Atlanta Hawks,3,Guard-Forward,2.01,90.0,USA,Maryland,23,1998-08-27,2018 R1 Pick 19,3
+Jay,Huff,Los Angeles Lakers,34,Forward,2.16,109.0,USA,Virginia,24,1997-08-25,Undrafted,0
+Elijah,Hughes,Utah Jazz,33,Guard,1.96,98.0,USA,Syracuse,23,1998-03-10,2020 R2 Pick 39,1
+De'Andre,Hunter,Atlanta Hawks,12,Forward-Guard,2.03,100.0,USA,Virginia,24,1997-12-02,2019 R1 Pick 4,2
+Chandler,Hutchison,Washington Wizards,1,Forward-Guard,1.98,95.0,USA,Boise State,25,1996-04-26,2018 R1 Pick 22,4
+Bones,Hyland,Denver Nuggets,3,Guard,1.88,77.0,USA,Virginia Commonwealth,21,2000-09-14,2021 R1 Pick 26,0
+Serge,Ibaka,LA Clippers,9,Forward,2.08,107.0,Republic of the Congo,Ricoh Manresa,32,1989-09-18,2008 R1 Pick 24,12
+Andre,Iguodala,Golden State Warriors,9,Guard-Forward,1.98,98.0,USA,Arizona,37,1984-01-28,2004 R1 Pick 9,17
+Joe,Ingles,Utah Jazz,2,Forward-Guard,2.03,100.0,Australia,Maccabi Tel Aviv,34,1987-10-02,Undrafted,7
+Brandon,Ingram,New Orleans Pelicans,14,Forward,2.03,86.0,USA,Duke,24,1997-09-02,2016 R1 Pick 2,5
+Kyrie,Irving,Brooklyn Nets,11,Guard,1.88,88.0,Australia,Duke,29,1992-03-23,2011 R1 Pick 1,10
+Jonathan,Isaac,Orlando Magic,1,Forward,2.08,104.0,USA,Florida State,24,1997-10-03,2017 R1 Pick 6,3
+Frank,Jackson,Detroit Pistons,5,Guard,1.91,93.0,USA,Duke,23,1998-05-04,2017 R2 Pick 31,3
+Isaiah,Jackson,Indiana Pacers,23,Forward,2.08,93.0,USA,Kentucky,19,2002-01-10,2021 R1 Pick 22,0
+Josh,Jackson,Detroit Pistons,20,Guard-Forward,2.03,94.0,USA,Kansas,24,1997-02-10,2017 R1 Pick 4,4
+Justin,Jackson,Phoenix Suns,44,Forward,2.03,100.0,USA,North Carolina,26,1995-03-28,2017 R1 Pick 15,4
+Reggie,Jackson,LA Clippers,1,Guard,1.88,94.0,USA,Boston College,31,1990-04-16,2011 R1 Pick 24,10
+Jaren,Jackson Jr.,Memphis Grizzlies,13,Forward-Center,2.11,110.0,USA,Michigan State,22,1999-09-15,2018 R1 Pick 4,3
+LeBron,James,Los Angeles Lakers,6,Forward,2.06,113.0,USA,St. Vincent-St. Mary HS (OH),37,1984-12-30,2003 R1 Pick 1,18
+DaQuan,Jeffries,Memphis Grizzlies,55,Guard-Forward,1.96,101.0,USA,Tulsa,24,1997-08-30,Undrafted,2
+Ty,Jerome,Oklahoma City Thunder,16,Guard-Forward,1.96,88.0,USA,Virginia,24,1997-07-08,2019 R1 Pick 24,2
+Isaiah,Joe,Philadelphia 76ers,7,Guard,1.93,75.0,USA,Arkansas,22,1999-07-02,2020 R2 Pick 49,1
+Cameron,Johnson,Phoenix Suns,23,Forward,2.03,95.0,USA,North Carolina,25,1996-03-03,2019 R1 Pick 11,2
+David,Johnson,Toronto Raptors,13,Guard,1.93,92.0,USA,Louisville,20,2001-02-26,2021 R2 Pick 47,0
+Jalen,Johnson,Atlanta Hawks,1,Forward,2.03,99.0,USA,Duke,20,2001-12-18,2021 R1 Pick 20,0
+James,Johnson,Brooklyn Nets,16,Forward,2.01,109.0,USA,Wake Forest,34,1987-02-20,2009 R1 Pick 16,12
+Keldon,Johnson,San Antonio Spurs,3,Forward-Guard,1.98,100.0,USA,Kentucky,22,1999-10-11,2019 R1 Pick 29,2
+Keon,Johnson,LA Clippers,45,Guard,1.93,84.0,USA,Tennessee,19,2002-03-10,2021 R1 Pick 21,0
+Stanley,Johnson,Los Angeles Lakers,14,Forward-Guard,1.98,110.0,USA,Arizona,25,1996-05-29,2015 R1 Pick 8,6
+Tyler,Johnson,San Antonio Spurs,10,Guard,1.91,84.0,USA,Fresno State,29,1992-05-07,Undrafted,7
+Nikola,Jokic,Denver Nuggets,15,Center,2.11,129.0,Serbia,Mega Basket,26,1995-02-19,2014 R2 Pick 41,6
+Damian,Jones,Sacramento Kings,30,Center,2.11,111.0,USA,Vanderbilt,26,1995-06-30,2016 R1 Pick 30,5
+Herbert,Jones,New Orleans Pelicans,5,Forward,2.01,93.0,USA,Alabama,23,1998-10-06,2021 R2 Pick 35,0
+Kai,Jones,Charlotte Hornets,23,Center-Forward,2.08,100.0,Bahamas,Texas-Austin,20,2001-01-19,2021 R1 Pick 19,0
+Mason,Jones,Los Angeles Lakers,5,Guard,1.93,91.0,USA,Arkansas,23,1998-07-21,Undrafted,1
+Tre,Jones,San Antonio Spurs,33,Guard,1.85,84.0,USA,Duke,22,2000-01-08,2020 R2 Pick 41,1
+Tyus,Jones,Memphis Grizzlies,21,Guard,1.83,89.0,USA,Duke,25,1996-05-10,2015 R1 Pick 24,6
+Derrick,Jones Jr.,Chicago Bulls,5,Forward,1.98,95.0,USA,UNLV,24,1997-02-15,Undrafted,5
+DeAndre,Jordan,Los Angeles Lakers,10,Center,2.11,120.0,USA,Texas A&M,33,1988-07-21,2008 R2 Pick 35,13
+Cory,Joseph,Detroit Pistons,18,Guard,1.91,91.0,Canada,Texas-Austin,30,1991-08-20,2011 R1 Pick 29,10
+Frank,Kaminsky,Phoenix Suns,8,Forward-Center,2.13,109.0,USA,Wisconsin,28,1993-04-04,2015 R1 Pick 9,6
+Luke,Kennard,LA Clippers,5,Guard,1.96,93.0,USA,Duke,25,1996-06-24,2017 R1 Pick 12,4
+Louis,King,Sacramento Kings,23,Forward,2.01,93.0,USA,Oregon,22,1999-04-06,Undrafted,2
+Corey,Kispert,Washington Wizards,24,Forward,1.98,102.0,USA,Gonzaga,22,1999-03-03,2021 R1 Pick 15,0
+Maxi,Kleber,Dallas Mavericks,42,Forward,2.08,109.0,Germany,Bayern Munich,29,1992-01-29,Undrafted,4
+Nathan,Knight,Minnesota Timberwolves,13,Forward-Center,2.08,115.0,USA,William & Mary,24,1997-09-20,Undrafted,1
+Kevin,Knox II,New York Knicks,20,Forward,2.01,98.0,USA,Kentucky,22,1999-08-11,2018 R1 Pick 9,3
+John,Konchar,Memphis Grizzlies,46,Guard,1.96,95.0,USA,Indiana-Purdue Fort Wayne,25,1996-03-22,Undrafted,2
+Furkan,Korkmaz,Philadelphia 76ers,30,Guard-Forward,2.01,92.0,Turkey,Anadolu Efes,24,1997-07-24,2016 R1 Pick 26,4
+Luke,Kornet,Milwaukee Bucks,40,Center-Forward,2.18,113.0,USA,Vanderbilt,26,1995-07-15,Undrafted,4
+Vit,Krejci,Oklahoma City Thunder,27,Guard,2.03,88.0,Czech Republic,Zaragoza,21,2000-06-19,2020 R2 Pick 37,0
+Arnoldas,Kulboka,Charlotte Hornets,98,Forward,2.08,95.0,Lithuania,Bilbao,24,1998-01-04,2018 R2 Pick 55,0
+Jonathan,Kuminga,Golden State Warriors,00,Forward,2.01,102.0,DRC,NBA G League Ignite,19,2002-10-06,2021 R1 Pick 7,0
+Kyle,Kuzma,Washington Wizards,33,Forward,2.06,100.0,USA,Utah,26,1995-07-24,2017 R1 Pick 27,4
+Zach,LaVine,Chicago Bulls,8,Guard-Forward,1.96,91.0,USA,UCLA,26,1995-03-10,2014 R1 Pick 13,7
+Anthony,Lamb,San Antonio Spurs,33,Forward,1.98,103.0,USA,Vermont,23,1998-01-20,Undrafted,1
+Jeremy,Lamb,Indiana Pacers,26,Guard-Forward,1.96,82.0,USA,Connecticut,29,1992-05-30,2012 R1 Pick 12,9
+Jock,Landale,San Antonio Spurs,34,Center,2.11,116.0,Australia,Australia,26,1995-10-25,Undrafted,0
+Romeo,Langford,Boston Celtics,9,Guard-Forward,1.96,98.0,USA,Indiana,22,1999-10-25,2019 R1 Pick 14,2
+Jake,Layman,Minnesota Timberwolves,10,Forward,2.03,95.0,USA,Maryland,27,1994-03-07,2016 R2 Pick 47,5
+Caris,LeVert,Indiana Pacers,22,Guard,1.98,93.0,USA,Michigan,27,1994-08-25,2016 R1 Pick 20,5
+Damion,Lee,Golden State Warriors,1,Guard-Forward,1.96,95.0,USA,Drexel,29,1992-10-21,Undrafted,4
+Saben,Lee,Detroit Pistons,38,Guard,1.88,83.0,USA,Vanderbilt,22,1999-06-23,2020 R2 Pick 38,1
+Alex,Len,Sacramento Kings,25,Center,2.13,113.0,Ukraine,Maryland,28,1993-06-16,2013 R1 Pick 5,8
+Kawhi,Leonard,LA Clippers,2,Forward,2.01,102.0,USA,San Diego State,30,1991-06-29,2011 R1 Pick 15,10
+Scottie,Lewis,Charlotte Hornets,16,Guard,1.96,84.0,USA,Florida,21,2000-03-12,2021 R2 Pick 56,0
+Kira,Lewis Jr.,New Orleans Pelicans,13,Guard,1.85,77.0,USA,Alabama,20,2001-04-06,2020 R1 Pick 13,1
+Damian,Lillard,Portland Trail Blazers,0,Guard,1.88,88.0,USA,Weber State,31,1990-07-15,2012 R1 Pick 6,9
+Nassir,Little,Portland Trail Blazers,9,Forward-Guard,1.96,100.0,USA,North Carolina,21,2000-02-11,2019 R1 Pick 25,2
+Isaiah,Livers,Detroit Pistons,12,Forward,1.98,105.0,USA,Michigan,23,1998-07-28,2021 R2 Pick 42,0
+Kevon,Looney,Golden State Warriors,5,Forward,2.06,101.0,USA,UCLA,25,1996-02-06,2015 R1 Pick 30,6
+Brook,Lopez,Milwaukee Bucks,11,Center,2.13,128.0,USA,Stanford,33,1988-04-01,2008 R1 Pick 10,13
+Robin,Lopez,Orlando Magic,33,Center,2.13,127.0,USA,Stanford,33,1988-04-01,2008 R1 Pick 15,13
+Didi,Louzada,New Orleans Pelicans,0,Guard,1.96,85.0,Brazil,Sydney Kings,22,1999-07-02,2019 R2 Pick 35,1
+Kevin,Love,Cleveland Cavaliers,0,Forward-Center,2.03,114.0,USA,UCLA,33,1988-09-07,2008 R1 Pick 5,13
+Kyle,Lowry,Miami Heat,7,Guard,1.83,89.0,USA,Villanova,35,1986-03-25,2006 R1 Pick 24,15
+Timothe,Luwawu-Cabarrot,Atlanta Hawks,7,Guard-Forward,2.01,98.0,France,Mega Basket,26,1995-05-09,2016 R1 Pick 24,5
+Trey,Lyles,Detroit Pistons,8,Forward,2.06,106.0,Canada,Kentucky,26,1995-11-05,2015 R1 Pick 12,6
+Theo,Maledon,Oklahoma City Thunder,11,Guard,1.93,79.0,France,Asvel,20,2001-06-12,2020 R2 Pick 34,1
+Sandro,Mamukelashvili,Milwaukee Bucks,54,Forward-Center,2.06,109.0,Georgia,Seton Hall,22,1999-05-23,2021 R2 Pick 54,0
+Terance,Mann,LA Clippers,14,Guard-Forward,1.96,98.0,USA,Florida State,25,1996-10-18,2019 R2 Pick 48,2
+Tre,Mann,Oklahoma City Thunder,23,Guard,1.91,81.0,USA,Florida,20,2001-02-03,2021 R1 Pick 18,0
+Boban,Marjanovic,Dallas Mavericks,51,Center,2.21,132.0,Serbia,Crvena zvezda,33,1988-08-15,Undrafted,6
+Lauri,Markkanen,Cleveland Cavaliers,24,Forward-Center,2.11,109.0,Finland,Arizona,24,1997-05-22,2017 R1 Pick 7,4
+Naji,Marshall,New Orleans Pelicans,8,Forward,2.01,100.0,USA,Xavier,23,1998-01-24,Undrafted,1
+Caleb,Martin,Miami Heat,16,Forward,1.96,93.0,USA,Nevada-Reno,26,1995-09-28,Undrafted,2
+Cody,Martin,Charlotte Hornets,11,Forward,1.98,93.0,USA,Nevada-Reno,26,1995-09-28,2019 R2 Pick 36,2
+Kelan,Martin,Indiana Pacers,21,Forward,1.96,104.0,USA,Butler,26,1995-08-03,Undrafted,3
+Kenyon,Martin Jr.,Houston Rockets,6,Forward,1.96,98.0,USA,IMG Academy (FL),21,2001-01-06,2020 R2 Pick 52,1
+Garrison,Mathews,Houston Rockets,25,Guard,1.96,98.0,USA,Lipscomb,25,1996-10-24,Undrafted,2
+Wesley,Matthews,Milwaukee Bucks,23,Guard,1.93,100.0,USA,Marquette,35,1986-10-14,Undrafted,12
+Tyrese,Maxey,Philadelphia 76ers,0,Guard,1.88,91.0,USA,Kentucky,21,2000-11-04,2020 R1 Pick 21,1
+Skylar,Mays,Atlanta Hawks,4,Guard,1.93,93.0,USA,Louisiana State,24,1997-09-05,2020 R2 Pick 50,1
+Miles,McBride,New York Knicks,2,Guard,1.85,88.0,USA,West Virginia,21,2000-09-08,2021 R2 Pick 36,0
+Mac,McClung,Chicago Bulls,00,Guard,1.88,84.0,USA,Texas Tech,23,1999-01-06,Undrafted,0
+CJ,McCollum,Portland Trail Blazers,3,Guard,1.91,86.0,USA,Lehigh,30,1991-09-19,2013 R1 Pick 10,8
+T.J.,McConnell,Indiana Pacers,9,Guard,1.85,86.0,USA,Arizona,29,1992-03-25,2015 ,6
+Jaden,McDaniels,Minnesota Timberwolves,3,Forward,2.06,84.0,USA,Washington,21,2000-09-29,2020 R1 Pick 28,1
+Jalen,McDaniels,Charlotte Hornets,6,Forward-Center,2.06,93.0,USA,San Diego State,23,1998-01-31,2019 R2 Pick 52,2
+Doug,McDermott,San Antonio Spurs,17,Forward,2.01,102.0,USA,Creighton,30,1992-01-03,2014 R1 Pick 11,7
+JaVale,McGee,Phoenix Suns,00,Center-Forward,2.13,122.0,USA,Nevada-Reno,33,1988-01-19,2008 R1 Pick 18,13
+Rodney,McGruder,Detroit Pistons,17,Guard,1.93,93.0,USA,Kansas State,30,1991-07-29,Undrafted,5
+Alfonzo,McKinnie,Chicago Bulls,28,Forward,2.01,98.0,USA,Wisconsin-Green Bay,29,1992-09-17,Undrafted,4
+Jordan,McLaughlin,Minnesota Timberwolves,6,Guard,1.8,84.0,USA,Southern California,25,1996-04-09,Undrafted,2
+Ben,McLemore,Portland Trail Blazers,23,Guard,1.91,88.0,USA,Kansas,28,1993-02-11,2013 R1 Pick 7,8
+De'Anthony,Melton,Memphis Grizzlies,0,Guard,1.88,91.0,USA,Southern California,23,1998-05-28,2018 R2 Pick 46,3
+Chimezie,Metu,Sacramento Kings,7,Forward-Center,2.06,102.0,USA,Southern California,24,1997-03-22,2018 R2 Pick 49,3
+Khris,Middleton,Milwaukee Bucks,22,Forward,2.01,101.0,USA,Texas A&M,30,1991-08-12,2012 R2 Pick 39,9
+Patty,Mills,Brooklyn Nets,8,Guard,1.83,82.0,Australia,St.Mary's College of California,33,1988-08-11,2009 R2 Pick 55,12
+Paul,Millsap,Brooklyn Nets,31,Forward,2.01,117.0,USA,Louisiana Tech,36,1985-02-10,2006 R2 Pick 47,15
+Shake,Milton,Philadelphia 76ers,18,Guard-Forward,1.96,93.0,USA,Southern Methodist,25,1996-09-26,2018 R2 Pick 54,3
+Davion,Mitchell,Sacramento Kings,15,Guard,1.83,92.0,USA,Baylor,23,1998-09-05,2021 R1 Pick 9,0
+Donovan,Mitchell,Utah Jazz,45,Guard,1.85,98.0,USA,Louisville,25,1996-09-07,2017 R1 Pick 13,4
+Evan,Mobley,Cleveland Cavaliers,4,Center,2.11,98.0,USA,Southern California,20,2001-06-18,2021 R1 Pick 3,0
+Malik,Monk,Los Angeles Lakers,11,Guard,1.91,91.0,USA,Kentucky,23,1998-02-04,2017 R1 Pick 11,4
+Greg,Monroe,Washington Wizards,55,Forward-Center,2.08,113.0,USA,Georgetown,31,1990-06-04,2010 R1 Pick 7,9
+Moses,Moody,Golden State Warriors,4,Guard,1.96,96.0,USA,Arkansas,19,2002-05-31,2021 R1 Pick 14,0
+Matt,Mooney,New York Knicks,31,Guard,1.88,90.0,USA,Texas Tech,24,1997-02-07,Undrafted,1
+E'Twaun,Moore,Orlando Magic,55,Guard,1.91,87.0,USA,Purdue,32,1989-02-25,2011 R2 Pick 55,10
+Ja,Morant,Memphis Grizzlies,12,Guard,1.91,79.0,USA,Murray State,22,1999-08-10,2019 R1 Pick 2,2
+Jaylen,Morris,San Antonio Spurs,30,Guard,1.96,84.0,USA,Molloy,26,1995-09-19,Undrafted,2
+Markieff,Morris,Miami Heat,8,Forward,2.06,111.0,USA,Kansas,32,1989-09-02,2011 R1 Pick 13,10
+Monte,Morris,Denver Nuggets,11,Guard,1.88,83.0,USA,Iowa State,26,1995-06-27,2017 R2 Pick 51,4
+Marcus,Morris Sr.,LA Clippers,8,Forward,2.03,99.0,USA,Kansas,32,1989-09-02,2011 R1 Pick 14,10
+Mychal,Mulder,Golden State Warriors,15,Guard,1.91,83.0,Canada,Kentucky,27,1994-06-12,Undrafted,3
+Trey,Murphy III,New Orleans Pelicans,25,Forward,2.03,93.0,USA,Virginia,21,2000-06-18,2021 R1 Pick 17,0
+Dejounte,Murray,San Antonio Spurs,5,Guard,1.93,82.0,USA,Washington,25,1996-09-19,2016 R1 Pick 29,4
+Jamal,Murray,Denver Nuggets,27,Guard,1.91,98.0,Canada,Kentucky,24,1997-02-23,2016 R1 Pick 7,5
+Mike,Muscala,Oklahoma City Thunder,33,Forward-Center,2.08,109.0,USA,Bucknell,30,1991-07-01,2013 R2 Pick 44,8
+Svi,Mykhailiuk,Toronto Raptors,14,Guard-Forward,2.01,93.0,Ukraine,Kansas,24,1997-06-10,2018 R2 Pick 47,3
+Abdel,Nader,Phoenix Suns,11,Forward,1.96,102.0,Egypt,Iowa State,28,1993-09-25,2016 R2 Pick 58,4
+Larry,Nance Jr.,Portland Trail Blazers,11,Forward-Center,2.01,111.0,USA,Wyoming,29,1993-01-01,2015 R1 Pick 27,6
+RJ,Nembhard Jr.,Cleveland Cavaliers,5,Guard,1.93,91.0,USA,TCU,22,1999-03-22,Undrafted,0
+Aaron,Nesmith,Boston Celtics,26,Guard-Forward,1.96,98.0,USA,Vanderbilt,22,1999-10-16,2020 R1 Pick 14,1
+Raul,Neto,Washington Wizards,19,Guard,1.88,82.0,Brazil,Murcia,29,1992-05-19,2013 R2 Pick 47,6
+Georges,Niang,Philadelphia 76ers,20,Forward,2.01,104.0,USA,Iowa State,28,1993-06-17,2016 R2 Pick 50,5
+Daishen,Nix,Houston Rockets,15,Guard,1.93,103.0,USA,NBA G League Ignite,19,2002-02-13,Undrafted,0
+Zeke,Nnaji,Denver Nuggets,22,Forward-Center,2.06,109.0,USA,Arizona,21,2001-01-09,2020 R1 Pick 22,1
+Nerlens,Noel,New York Knicks,3,Center-Forward,2.11,100.0,USA,Kentucky,27,1994-04-10,2013 R1 Pick 6,7
+Jaylen,Nowell,Minnesota Timberwolves,4,Guard,1.93,91.0,USA,Washington,22,1999-07-09,2019 R2 Pick 43,2
+Frank,Ntilikina,Dallas Mavericks,21,Guard,1.93,91.0,France,Strasbourg IG,23,1998-07-28,2017 R1 Pick 8,4
+Kendrick,Nunn,Los Angeles Lakers,12,Guard,1.88,86.0,USA,Oakland,26,1995-08-03,Undrafted,2
+Jusuf,Nurkic,Portland Trail Blazers,27,Center,2.11,132.0,Bosnia and Herzegovina,Cedevita,27,1994-08-23,2014 R1 Pick 16,7
+David,Nwaba,Houston Rockets,2,Guard-Forward,1.96,99.0,USA,Cal Poly,28,1993-01-14,Undrafted,5
+Jordan,Nwora,Milwaukee Bucks,13,Forward,2.03,102.0,USA,Louisville,23,1998-09-09,2020 R2 Pick 45,1
+Royce,O'Neale,Utah Jazz,23,Forward,1.96,103.0,USA,Baylor,28,1993-06-05,Undrafted,4
+Semi,Ojeleye,Milwaukee Bucks,37,Forward,1.98,109.0,USA,Southern Methodist,27,1994-12-05,2017 R2 Pick 37,4
+Chuma,Okeke,Orlando Magic,3,Forward,1.98,104.0,USA,Auburn,23,1998-08-18,2019 R1 Pick 16,1
+Josh,Okogie,Minnesota Timberwolves,20,Guard,1.93,97.0,Nigeria,Georgia Tech,23,1998-09-01,2018 R1 Pick 20,3
+Onyeka,Okongwu,Atlanta Hawks,17,Forward-Center,2.03,109.0,USA,Southern California,21,2000-12-11,2020 R1 Pick 6,1
+Isaac,Okoro,Cleveland Cavaliers,35,Forward-Guard,1.96,102.0,USA,Auburn,20,2001-01-26,2020 R1 Pick 5,1
+KZ,Okpala,Miami Heat,11,Forward-Guard,2.03,98.0,USA,Stanford,22,1999-04-28,2019 R2 Pick 32,2
+Victor,Oladipo,Miami Heat,4,Guard,1.93,97.0,USA,Indiana,29,1992-05-04,2013 R1 Pick 2,8
+Kelly,Olynyk,Detroit Pistons,13,Forward-Center,2.11,109.0,Canada,Gonzaga,30,1991-04-19,2013 R1 Pick 13,8
+Cedi,Osman,Cleveland Cavaliers,16,Forward,2.01,104.0,Turkey,Anadolu Efes,26,1995-04-08,2015 R2 Pick 31,4
+Kelly,Oubre Jr.,Charlotte Hornets,12,Forward-Guard,1.98,92.0,USA,Kansas,26,1995-12-09,2015 R1 Pick 15,6
+Kevin,Pangos,Cleveland Cavaliers,6,Guard,1.85,81.0,Canada,Gonzaga,28,1993-01-26,Undrafted,0
+Eric,Paschall,Utah Jazz,0,Forward,1.98,116.0,USA,Villanova,25,1996-11-04,2019 R2 Pick 41,2
+Chris,Paul,Phoenix Suns,3,Guard,1.83,79.0,USA,Wake Forest,36,1985-05-06,2005 R1 Pick 4,16
+Cameron,Payne,Phoenix Suns,15,Guard,1.85,83.0,USA,Murray State,27,1994-08-08,2015 R1 Pick 14,6
+Elfrid,Payton,Phoenix Suns,2,Guard,1.91,88.0,USA,Louisana-Lafayette,27,1994-02-22,2014 R1 Pick 10,7
+Gary,Payton II,Golden State Warriors,0,Guard,1.91,88.0,USA,Oregon State,29,1992-12-01,Undrafted,5
+Norvel,Pelle,Utah Jazz,14,Center,2.08,105.0,USA,Iona,28,1993-02-03,Undrafted,2
+Jamorko,Pickett,Detroit Pistons,24,Forward,2.06,93.0,USA,Georgetown,24,1997-12-24,Undrafted,0
+Theo,Pinson,Dallas Mavericks,21,Guard-Forward,1.96,96.0,USA,North Carolina,26,1995-11-05,Undrafted,3
+Mason,Plumlee,Charlotte Hornets,24,Forward-Center,2.11,115.0,USA,Duke,31,1990-03-05,2013 R1 Pick 22,8
+Jakob,Poeltl,San Antonio Spurs,25,Center,2.16,111.0,Austria,Utah,26,1995-10-15,2016 R1 Pick 9,5
+Aleksej,Pokusevski,Oklahoma City Thunder,17,Forward,2.13,86.0,Serbia,Olympiacos,20,2001-12-26,2020 R1 Pick 17,1
+Yves,Pons,Memphis Grizzlies,5,Forward,1.96,93.0,France,Tennessee,22,1999-05-07,Undrafted,0
+Jordan,Poole,Golden State Warriors,3,Guard,1.93,88.0,USA,Michigan,22,1999-06-19,2019 R1 Pick 28,2
+Kevin,Porter Jr.,Houston Rockets,3,Guard-Forward,1.93,92.0,USA,Southern California,21,2000-05-04,2019 R1 Pick 30,2
+Michael,Porter Jr.,Denver Nuggets,1,Forward,2.08,99.0,USA,Missouri,23,1998-06-29,2018 R1 Pick 14,2
+Otto,Porter Jr.,Golden State Warriors,32,Forward,2.03,90.0,USA,Georgetown,28,1993-06-03,2013 R1 Pick 3,8
+Bobby,Portis,Milwaukee Bucks,9,Forward,2.08,113.0,USA,Arkansas,26,1995-02-10,2015 R1 Pick 22,6
+Kristaps,Porzingis,Dallas Mavericks,6,Forward-Center,2.21,109.0,Latvia,Cajasol Sevilla,26,1995-08-02,2015 R1 Pick 4,5
+Dwight,Powell,Dallas Mavericks,7,Forward-Center,2.08,109.0,Canada,Stanford,30,1991-07-20,2014 R2 Pick 45,7
+Myles,Powell,Philadelphia 76ers,13,Guard,1.88,88.0,USA,Seton Hall,24,1997-07-07,Undrafted,0
+Norman,Powell,Portland Trail Blazers,24,Guard,1.91,98.0,USA,UCLA,28,1993-05-25,2015 R2 Pick 46,6
+Jason,Preston,LA Clippers,17,Guard,1.91,82.0,USA,Ohio,22,1999-08-10,2021 R2 Pick 33,0
+Joshua,Primo,San Antonio Spurs,11,Guard,1.93,86.0,Canada,Alabama,19,2002-12-24,2021 R1 Pick 12,0
+Taurean,Prince,Minnesota Timberwolves,12,Forward,1.98,99.0,USA,Baylor,27,1994-03-22,2016 R1 Pick 12,5
+Payton,Pritchard,Boston Celtics,11,Guard,1.85,88.0,USA,Oregon,23,1998-01-28,2020 R1 Pick 26,1
+Trevelin,Queen,Houston Rockets,21,Guard,1.98,86.0,USA,New Mexico State,24,1997-02-25,Undrafted,0
+Neemias,Queta,Sacramento Kings,88,Center,2.13,112.0,Portugal,Utah State,22,1999-07-13,2021 R2 Pick 39,0
+Immanuel,Quickley,New York Knicks,5,Guard,1.91,86.0,USA,Kentucky,22,1999-06-17,2020 R1 Pick 25,1
+Jahmi'us,Ramsey,Sacramento Kings,20,Guard,1.91,86.0,USA,Texas Tech,20,2001-06-09,2020 R2 Pick 43,1
+Julius,Randle,New York Knicks,30,Forward-Center,2.03,113.0,USA,Kentucky,27,1994-11-29,2014 R1 Pick 7,7
+Austin,Reaves,Los Angeles Lakers,15,Guard,1.96,89.0,USA,Oklahoma,23,1998-05-29,Undrafted,0
+Cam,Reddish,Atlanta Hawks,22,Forward-Guard,2.03,98.0,USA,Duke,22,1999-09-01,2019 R1 Pick 10,2
+Paul,Reed,Philadelphia 76ers,44,Forward,2.06,95.0,USA,DePaul,22,1999-06-14,2020 R2 Pick 58,1
+Naz,Reid,Minnesota Timberwolves,11,Center-Forward,2.06,120.0,USA,Louisiana State,22,1999-08-26,Undrafted,2
+Nick,Richards,Charlotte Hornets,14,Center,2.13,111.0,Jamaica,Kentucky,24,1997-11-29,2020 R2 Pick 42,1
+Josh,Richardson,Boston Celtics,8,Guard,1.96,91.0,USA,Tennessee,28,1993-09-15,2015 R2 Pick 40,6
+Austin,Rivers,Denver Nuggets,25,Guard,1.93,91.0,USA,Duke,29,1992-08-01,2012 R1 Pick 10,9
+Duncan,Robinson,Miami Heat,55,Forward,2.01,98.0,USA,Michigan,27,1994-04-22,Undrafted,3
+Mitchell,Robinson,New York Knicks,23,Center-Forward,2.13,109.0,USA,Western Kentucky,23,1998-04-01,2018 R2 Pick 36,3
+Jeremiah,Robinson-Earl,Oklahoma City Thunder,50,Forward,2.03,110.0,USA,Villanova,21,2000-11-03,2021 R2 Pick 32,0
+Isaiah,Roby,Oklahoma City Thunder,22,Forward,2.03,104.0,USA,Nebraska-Lincoln,23,1998-02-03,2019 R2 Pick 45,2
+Rajon,Rondo,Cleveland Cavaliers,4,Guard,1.85,82.0,USA,Kentucky,35,1986-02-22,2006 R1 Pick 21,15
+Derrick,Rose,New York Knicks,4,Guard,1.88,91.0,USA,Memphis,33,1988-10-04,2008 R1 Pick 1,12
+Terrence,Ross,Orlando Magic,31,Guard-Forward,1.98,93.0,USA,Washington,30,1991-02-05,2012 R1 Pick 8,9
+Terry,Rozier,Charlotte Hornets,3,Guard,1.85,86.0,USA,Louisville,27,1994-03-17,2015 R1 Pick 16,6
+Ricky,Rubio,Cleveland Cavaliers,3,Guard,1.88,86.0,Spain,FC Barcelona,31,1990-10-21,2009 R1 Pick 5,10
+D'Angelo,Russell,Minnesota Timberwolves,0,Guard,1.93,88.0,USA,Ohio State,25,1996-02-23,2015 R1 Pick 2,6
+Domantas,Sabonis,Indiana Pacers,11,Forward-Center,2.11,109.0,Lithuania,Gonzaga,25,1996-05-03,2016 R1 Pick 11,5
+Luka,Samanic,New York Knicks,91,Forward,2.08,103.0,Croatia,Union Olimpija,22,2000-01-09,2019 R1 Pick 19,2
+Dario,Saric,Phoenix Suns,20,Forward-Center,2.08,102.0,Croatia,Anadolu Efes,27,1994-04-08,2014 R1 Pick 12,5
+Tomas,Satoransky,New Orleans Pelicans,31,Guard,2.01,95.0,Czech Republic,FC Barcelona,30,1991-10-30,2012 R2 Pick 32,5
+Admiral,Schofield,Orlando Magic,25,Forward,1.96,109.0,United Kingdom,Tennessee,24,1997-03-30,2019 R2 Pick 42,1
+Dennis,Schroder,Boston Celtics,71,Guard,1.85,78.0,Germany,Braunschweig,28,1993-09-15,2013 R1 Pick 17,8
+Jay,Scrubb,LA Clippers,0,Guard,1.96,100.0,USA,John A. Logan,21,2000-09-01,2020 R2 Pick 55,1
+Alperen,Sengun,Houston Rockets,28,Center,2.08,110.0,Turkey,Besiktas,19,2002-07-25,2021 R1 Pick 16,0
+Collin,Sexton,Cleveland Cavaliers,2,Guard,1.85,86.0,USA,Alabama,23,1999-01-04,2018 R1 Pick 8,3
+Landry,Shamet,Phoenix Suns,14,Guard,1.93,86.0,USA,Wichita State,24,1997-03-13,2018 R1 Pick 26,3
+Day'Ron,Sharpe,Brooklyn Nets,20,Forward,2.06,120.0,USA,North Carolina,20,2001-11-06,2021 R1 Pick 29,0
+Pascal,Siakam,Toronto Raptors,43,Forward,2.03,104.0,Cameroon,New Mexico State,27,1994-04-02,2016 R1 Pick 27,5
+Chris,Silva,Miami Heat,30,Forward,2.03,106.0,Gabon,South Carolina,25,1996-09-19,Undrafted,2
+Ben,Simmons,Philadelphia 76ers,25,Guard-Forward,2.11,109.0,Australia,Louisiana State,25,1996-07-20,2016 R1 Pick 1,4
+Marko,Simonovic,Chicago Bulls,19,Center,2.11,100.0,Montenegro,Mega Basket,22,1999-10-15,2020 R2 Pick 44,0
+Anfernee,Simons,Portland Trail Blazers,1,Guard,1.91,82.0,USA,Edgewater HS (FL),22,1999-06-08,2018 R1 Pick 24,3
+Jericho,Sims,New York Knicks,45,Center,2.06,113.0,USA,Texas-Austin,23,1998-10-20,2021 R2 Pick 58,0
+Javonte,Smart,Milwaukee Bucks,6,Guard,1.93,93.0,USA,Louisiana State,22,1999-06-03,Undrafted,0
+Marcus,Smart,Boston Celtics,36,Guard,1.93,100.0,USA,Oklahoma State,27,1994-03-06,2014 R1 Pick 6,7
+Chris,Smith,Detroit Pistons,0,Forward,2.06,98.0,USA,UCLA,22,1999-12-24,Undrafted,0
+Ish,Smith,Charlotte Hornets,10,Guard,1.83,79.0,USA,Wake Forest,33,1988-07-05,Undrafted,11
+Jalen,Smith,Phoenix Suns,10,Forward-Center,2.08,98.0,USA,Maryland,21,2000-03-16,2020 R1 Pick 10,1
+Dennis,Smith Jr.,Portland Trail Blazers,10,Guard,1.88,93.0,USA,North Carolina State,24,1997-11-25,2017 R1 Pick 9,4
+Tony,Snell,Portland Trail Blazers,17,Guard,1.98,97.0,USA,New Mexico,30,1991-11-10,2013 R1 Pick 20,8
+Jaden,Springer,Philadelphia 76ers,11,Guard,1.93,92.0,USA,Tennessee,19,2002-09-25,2021 R1 Pick 28,0
+Cassius,Stanley,Detroit Pistons,2,Guard,1.96,86.0,USA,Duke,22,1999-08-18,2020 R2 Pick 54,1
+Nik,Stauskas,Miami Heat,9,Guard,1.98,94.0,Canada,Michigan,28,1993-10-07,2014 R1 Pick 8,5
+Lance,Stephenson,Indiana Pacers,6,Forward,1.96,95.0,USA,Cincinnati,31,1990-09-05,2010 R2 Pick 40,9
+Lamar,Stevens,Cleveland Cavaliers,8,Forward,1.98,104.0,USA,Penn State,24,1997-07-09,Undrafted,1
+Isaiah,Stewart,Detroit Pistons,28,Forward-Center,2.03,113.0,USA,Washington,20,2001-05-22,2020 R1 Pick 16,1
+Max,Strus,Miami Heat,31,Guard-Forward,1.96,98.0,USA,DePaul,25,1996-03-28,Undrafted,2
+Jalen,Suggs,Orlando Magic,4,Guard,1.96,93.0,USA,Gonzaga,20,2001-06-03,2021 R1 Pick 5,0
+Keifer,Sykes,Indiana Pacers,28,Guard,1.8,76.0,USA,Wisconsin-Green Bay,28,1993-12-30,Undrafted,0
+Jae'Sean,Tate,Houston Rockets,8,Forward,1.93,104.0,USA,Ohio State,26,1995-10-28,Undrafted,1
+Jayson,Tatum,Boston Celtics,0,Forward-Guard,2.03,95.0,USA,Duke,23,1998-03-03,2017 R1 Pick 3,4
+Terry,Taylor,Indiana Pacers,32,Forward,1.96,104.0,USA,Austin Peay,22,1999-09-23,Undrafted,0
+Garrett,Temple,New Orleans Pelicans,41,Guard-Forward,1.96,88.0,USA,Louisiana State,35,1986-05-08,Undrafted,11
+Tyrell,Terry,Memphis Grizzlies,1,Guard,1.88,73.0,USA,Stanford,21,2000-09-28,2020 R2 Pick 31,1
+Jon,Teske,Memphis Grizzlies,15,Center,2.16,120.0,USA,Michigan,24,1997-05-04,Undrafted,0
+Daniel,Theis,Houston Rockets,27,Forward-Center,2.06,111.0,Germany,Brose Bamberg,29,1992-04-04,Undrafted,4
+Brodric,Thomas,Boston Celtics,97,Guard,1.96,84.0,USA,Truman State,24,1997-01-28,Undrafted,1
+Cam,Thomas,Brooklyn Nets,24,Guard,1.91,95.0,Japan,Louisiana State,20,2001-10-13,2021 R1 Pick 27,0
+Matt,Thomas,Chicago Bulls,21,Guard,1.91,86.0,USA,Iowa State,27,1994-08-04,Undrafted,2
+Klay,Thompson,Golden State Warriors,11,Guard,1.98,100.0,USA,Washington State,31,1990-02-08,2011 R1 Pick 11,8
+Tristan,Thompson,Sacramento Kings,13,Center-Forward,2.06,115.0,Canada,Texas-Austin,30,1991-03-13,2011 R1 Pick 4,10
+JT,Thor,Charlotte Hornets,21,Forward,2.06,92.0,USA,Auburn,19,2002-08-26,2021 R2 Pick 37,0
+Matisse,Thybulle,Philadelphia 76ers,22,Guard-Forward,1.96,91.0,USA,Washington,24,1997-03-04,2019 R1 Pick 20,2
+Killian,Tillie,Memphis Grizzlies,35,Forward-Center,2.06,100.0,France,Gonzaga,23,1998-03-05,Undrafted,1
+Xavier,Tillman,Memphis Grizzlies,2,Forward,2.03,111.0,USA,Michigan State,22,1999-01-12,2020 R2 Pick 35,1
+Isaiah,Todd,Washington Wizards,14,Forward,2.06,99.0,USA,NBA G League Ignite,20,2001-10-17,2021 R2 Pick 31,0
+Obi,Toppin,New York Knicks,1,Forward,2.06,100.0,USA,Dayton,23,1998-03-04,2020 R1 Pick 8,1
+Juan,Toscano-Anderson,Golden State Warriors,95,Forward,1.98,95.0,USA,Marquette,28,1993-04-10,Undrafted,2
+Karl-Anthony,Towns,Minnesota Timberwolves,32,Center-Forward,2.11,112.0,USA,Kentucky,26,1995-11-15,2015 R1 Pick 1,6
+Gary,Trent Jr.,Toronto Raptors,33,Guard-Forward,1.96,95.0,USA,Duke,22,1999-01-18,2018 R2 Pick 37,3
+P.J.,Tucker,Miami Heat,17,Forward,1.96,111.0,USA,Texas-Austin,36,1985-05-05,2006 R2 Pick 35,10
+Rayjon,Tucker,Denver Nuggets,24,Guard,1.91,95.0,USA,Arkansas-Little Rock,24,1997-09-24,Undrafted,2
+Myles,Turner,Indiana Pacers,33,Center-Forward,2.11,113.0,USA,Texas-Austin,25,1996-03-24,2015 R1 Pick 11,6
+Jonas,Valanciunas,New Orleans Pelicans,17,Center,2.11,120.0,Lithuania,Lietuvos rytas Vilnius,29,1992-05-06,2011 R1 Pick 5,9
+Fred,VanVleet,Toronto Raptors,23,Guard,1.85,89.0,USA,Wichita State,27,1994-02-25,Undrafted,5
+Jarred,Vanderbilt,Minnesota Timberwolves,8,Forward,2.06,97.0,USA,Kentucky,22,1999-04-03,2018 R2 Pick 41,3
+Devin,Vassell,San Antonio Spurs,24,Guard-Forward,1.96,91.0,USA,Florida State,21,2000-08-23,2020 R1 Pick 11,1
+Gabe,Vincent,Miami Heat,2,Guard,1.91,91.0,USA,California-Santa Barbara,25,1996-06-14,Undrafted,2
+Nikola,Vucevic,Chicago Bulls,9,Center,2.08,118.0,Montenegro,Southern California,31,1990-10-24,2011 R1 Pick 16,10
+Dean,Wade,Cleveland Cavaliers,32,Forward-Center,2.06,103.0,USA,Kansas State,25,1996-11-20,Undrafted,2
+Franz,Wagner,Orlando Magic,22,Forward,2.08,100.0,Germany,Michigan,20,2001-08-27,2021 R1 Pick 8,0
+Moritz,Wagner,Orlando Magic,21,Forward-Center,2.11,111.0,Germany,Michigan,24,1997-04-26,2018 R1 Pick 25,3
+Ish,Wainright,Phoenix Suns,12,Forward,1.96,113.0,USA,Baylor,27,1994-09-12,Undrafted,0
+Kemba,Walker,New York Knicks,8,Guard,1.83,83.0,USA,Connecticut,31,1990-05-08,2011 R1 Pick 9,10
+Lonnie,Walker IV,San Antonio Spurs,1,Guard-Forward,1.93,93.0,USA,Miami,23,1998-12-14,2018 R1 Pick 18,3
+John,Wall,Houston Rockets,1,Guard,1.91,95.0,USA,Kentucky,31,1990-09-06,2010 R1 Pick 1,10
+T.J.,Warren,Indiana Pacers,1,Forward,2.03,100.0,USA,North Carolina State,28,1993-09-05,2014 R1 Pick 14,7
+P.J.,Washington,Charlotte Hornets,25,Forward,2.01,104.0,USA,Kentucky,23,1998-08-23,2019 R1 Pick 12,2
+Duane,Washington Jr.,Indiana Pacers,4,Guard,1.91,89.0,Germany,Ohio State,21,2000-03-24,Undrafted,0
+Yuta,Watanabe,Toronto Raptors,18,Guard-Forward,2.06,98.0,Japan,George Washington,27,1994-10-13,Undrafted,3
+Tremont,Waters,Washington Wizards,51,Guard,1.78,79.0,USA,Louisiana State,23,1998-01-10,2019 R2 Pick 51,2
+Trendon,Watford,Portland Trail Blazers,2,Forward,2.03,108.0,USA,Louisiana State,21,2000-11-09,Undrafted,0
+Paul,Watson,Oklahoma City Thunder,8,Guard,1.98,95.0,USA,Fresno State,27,1994-12-30,Undrafted,2
+Quinndary,Weatherspoon,Golden State Warriors,15,Guard,1.91,93.0,USA,Mississippi State,25,1996-09-10,2019 R2 Pick 49,2
+Russell,Westbrook,Los Angeles Lakers,0,Guard,1.91,91.0,USA,UCLA,33,1988-11-12,2008 R1 Pick 4,13
+Coby,White,Chicago Bulls,0,Guard,1.93,88.0,USA,North Carolina,21,2000-02-16,2019 R1 Pick 7,2
+Derrick,White,San Antonio Spurs,4,Guard,1.93,86.0,USA,Colorado,27,1994-07-02,2017 R1 Pick 29,4
+Hassan,Whiteside,Utah Jazz,21,Center,2.13,120.0,USA,Marshall,32,1989-06-13,2010 R2 Pick 33,9
+Joe,Wieskamp,San Antonio Spurs,15,Guard-Forward,1.98,93.0,USA,Iowa,22,1999-08-23,2021 R2 Pick 41,0
+Aaron,Wiggins,Oklahoma City Thunder,21,Guard,1.93,86.0,USA,Maryland,23,1999-01-02,2021 R2 Pick 55,0
+Andrew,Wiggins,Golden State Warriors,22,Forward,2.01,89.0,Canada,Kansas,26,1995-02-23,2014 R1 Pick 1,7
+Grant,Williams,Boston Celtics,12,Forward,1.98,107.0,USA,Tennessee,23,1998-11-30,2019 R1 Pick 22,2
+Kenrich,Williams,Oklahoma City Thunder,34,Guard-Forward,1.98,95.0,USA,TCU,27,1994-12-02,Undrafted,3
+Lou,Williams,Atlanta Hawks,6,Guard,1.88,79.0,USA,South Gwinnett HS (GA),35,1986-10-27,2005 R2 Pick 45,16
+Patrick,Williams,Chicago Bulls,44,Forward,2.01,98.0,USA,Florida State,20,2001-08-26,2020 R1 Pick 4,1
+Ziaire,Williams,Memphis Grizzlies,8,Forward,2.06,84.0,USA,Stanford,20,2001-09-12,2021 R1 Pick 10,0
+Robert,Williams III,Boston Celtics,44,Center-Forward,2.06,108.0,USA,Texas A&M,24,1997-10-17,2018 R1 Pick 27,3
+Zion,Williamson,New Orleans Pelicans,1,Forward,1.98,129.0,USA,Duke,21,2000-07-06,2019 R1 Pick 1,2
+D.J.,Wilson,Toronto Raptors,9,Forward,2.08,105.0,USA,Michigan,25,1996-02-19,2017 R1 Pick 17,4
+Dylan,Windler,Cleveland Cavaliers,9,Guard-Forward,1.98,89.0,USA,Belmont,25,1996-09-22,2019 R1 Pick 26,1
+Justise,Winslow,LA Clippers,20,Forward-Guard,1.98,101.0,USA,Duke,25,1996-03-26,2015 R1 Pick 10,6
+Cassius,Winston,Washington Wizards,5,Guard,1.85,84.0,USA,Michigan State,23,1998-02-28,2020 R2 Pick 53,1
+James,Wiseman,Golden State Warriors,33,Center,2.13,109.0,USA,Memphis,20,2001-03-31,2020 R1 Pick 2,1
+Christian,Wood,Houston Rockets,35,Forward,2.06,97.0,USA,UNLV,26,1995-09-27,Undrafted,5
+Robert,Woodard II,Sacramento Kings,17,Forward,1.98,107.0,USA,Mississippi State,22,1999-09-22,2020 R2 Pick 40,1
+Delon,Wright,Atlanta Hawks,0,Guard,1.96,84.0,USA,Utah,29,1992-04-26,2015 R1 Pick 20,6
+McKinley,Wright IV,Minnesota Timberwolves,25,Guard,1.8,87.0,USA,Colorado,23,1998-10-25,Undrafted,0
+Thaddeus,Young,San Antonio Spurs,30,Forward,2.03,107.0,USA,Georgia Tech,33,1988-06-21,2007 R1 Pick 12,14
+Trae,Young,Atlanta Hawks,11,Guard,1.85,74.0,USA,Oklahoma,23,1998-09-19,2018 R1 Pick 5,3
+Omer,Yurtseven,Miami Heat,77,Center,2.11,125.0,Turkey,Georgetown,23,1998-06-19,Undrafted,0
+Cody,Zeller,Portland Trail Blazers,40,Forward-Center,2.11,109.0,USA,Indiana,29,1992-10-05,2013 R1 Pick 4,8
+Ivica,Zubac,LA Clippers,40,Center,2.13,109.0,Croatia,Mega Basket,24,1997-03-18,2016 R2 Pick 32,5
