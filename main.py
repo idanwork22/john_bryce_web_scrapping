@@ -27,15 +27,11 @@ def main():
     scraping.click_on_select_all_pages(browser=browser, which_page='1')
 
     # run on every player in the list
-    counter =0
     for href_player in scraping.get_player_page_href(browser):
         # extract the data
-        counter +=1
         player_dict_data = scraping.extract_data_from_player(href_player)
         if player_dict_data:
             players_dataframe.loc[len(players_dataframe)] = player_dict_data
-        if counter == 3:
-            break
     players_dataframe = data.clean_and_parsing_data(players_dataframe)
     players_dataframe.to_csv("NBA players data.csv", index=False, encoding='utf-8')
     print("finish")
